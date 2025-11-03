@@ -1,0 +1,14 @@
+LIBRARY "ImageSearchDLL_x86"
+
+EXPORTS
+    ImageSearch                     @1
+    ImageSearch_InImage             @2
+    ImageSearch_hBitmap             @3
+    ImageSearch_CaptureScreen       @4
+    ImageSearch_hBitmapLoad         @5
+    ImageSearch_MouseClick          @6
+    ImageSearch_MouseMove           @7
+    ImageSearch_MouseClickWin       @8
+    ImageSearch_ClearCache          @9
+    ImageSearch_GetVersion          @10
+    ImageSearch_GetSysInfo          @11

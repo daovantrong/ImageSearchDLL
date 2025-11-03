@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ImageSearchDLL.vcxproj" Id="e11de3cc-71b4-40a7-9271-b1e26decfe8e" />
+</Solution>
